@@ -13,7 +13,6 @@
 // It is more memory-efficient than list (no back pointers).
 // Lacks .size() and .reverse_iterator unlike list.
 
-
 #include <iostream>
 #include <forward_list>
 #include <algorithm> // for sort, unique, merge
