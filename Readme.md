@@ -15,9 +15,9 @@ This repository contains implementations of various components of the C++ Standa
 ### Sequence Containers
 - [x] `vector` - Dynamic array implementation
 - [ ] `array` - Fixed-size array
-- [ ] `deque` - Double-ended queue
-- [ ] `forward_list` - Singly-linked list
-- [ ] `list` - Doubly-linked list
+- [x] `deque` - Double-ended queue
+- [x] `forward_list` - Singly-linked list
+- [x] `list` - Doubly-linked list
 
 ### Associative Containers
 - [ ] `set` - Collection of unique keys
@@ -32,8 +32,8 @@ This repository contains implementations of various components of the C++ Standa
 - [ ] `unordered_multimap` - Collection of key-value pairs, hashed, allowing duplicate keys
 
 ### Container Adaptors
-- [ ] `stack` - LIFO (Last In First Out) data structure
-- [ ] `queue` - FIFO (First In First Out) data structure
+- [x] `stack` - LIFO (Last In First Out) data structure
+- [x] `queue` - FIFO (First In First Out) data structure
 - [ ] `priority_queue` - Priority queue implementation
 
 ## Algorithms
@@ -89,7 +89,7 @@ This repository contains implementations of various components of the C++ Standa
 - [ ] `shuffle` - Randomly rearrange elements in range using generator
 
 ### Sorting Operations
-- [ ] `sort` - Sort elements in range
+- [x] `sort` - Sort elements in range
 - [ ] `stable_sort` - Sort elements preserving order of equivalents
 - [ ] `partial_sort` - Partially sort elements in range
 - [ ] `partial_sort_copy` - Copy and partially sort range
